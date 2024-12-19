@@ -21,10 +21,10 @@ text_name2=(f'Product {n2}')
 text_name3=(f'Product {n3}')
 text_name4=(f'Product {n4}')
 
-text_specif1=(f'описание({n1}')
-text_specif2=(f'описание({n2}')
-text_specif3=(f'описание({n3}')
-text_specif4=(f'описание{n4}')
+text_specif1=(f'описание {n1}')
+text_specif2=(f'описание {n2}')
+text_specif3=(f'описание {n3}')
+text_specif4=(f'описание {n4}')
 
 text_select_prod='Выберите продукт для покупки:'
 
